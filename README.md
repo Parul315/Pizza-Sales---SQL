@@ -1,0 +1,1 @@
+Performed SQL-based analysis on pizza sales data to identify top categories, top pizzas, average pizzas selling per day, revenue patterns, and customer preferences using joins, subqueries, and aggregate functions.
